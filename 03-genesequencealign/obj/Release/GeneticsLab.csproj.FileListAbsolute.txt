@@ -1,0 +1,12 @@
+C:\Users\clayt\Desktop\GeneSequenceAlignment\03-genesequencealign\bin\Release\GeneticsLab.exe.manifest
+C:\Users\clayt\Desktop\GeneSequenceAlignment\03-genesequencealign\bin\Release\GeneticsLab.application
+C:\Users\clayt\Desktop\GeneSequenceAlignment\03-genesequencealign\bin\Release\GeneticsLab.exe
+C:\Users\clayt\Desktop\GeneSequenceAlignment\03-genesequencealign\bin\Release\GeneticsLab.pdb
+C:\Users\clayt\Desktop\GeneSequenceAlignment\03-genesequencealign\obj\Release\GeneticsLab.csprojResolveAssemblyReference.cache
+C:\Users\clayt\Desktop\GeneSequenceAlignment\03-genesequencealign\obj\Release\GeneticsLab.MainForm.resources
+C:\Users\clayt\Desktop\GeneSequenceAlignment\03-genesequencealign\obj\Release\GeneticsLab.Properties.Resources.resources
+C:\Users\clayt\Desktop\GeneSequenceAlignment\03-genesequencealign\obj\Release\GeneticsLab.csproj.GenerateResource.Cache
+C:\Users\clayt\Desktop\GeneSequenceAlignment\03-genesequencealign\obj\Release\GeneticsLab.exe.manifest
+C:\Users\clayt\Desktop\GeneSequenceAlignment\03-genesequencealign\obj\Release\GeneticsLab.application
+C:\Users\clayt\Desktop\GeneSequenceAlignment\03-genesequencealign\obj\Release\GeneticsLab.exe
+C:\Users\clayt\Desktop\GeneSequenceAlignment\03-genesequencealign\obj\Release\GeneticsLab.pdb
